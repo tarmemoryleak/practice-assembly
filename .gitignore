@@ -1,0 +1,13 @@
+*.obj
+*.o
+*.bin
+*.exe
+*.com
+*.out
+*.elf
+*.so
+*.dll
+*.a
+*.lib
+*.img
+*.flp
