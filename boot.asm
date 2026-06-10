@@ -1,7 +1,7 @@
 [org 0x7c00]
 
-xor ax, ax
-mov ds, ax
+xor ax, ax ; i use vmware so need to add this unlike qemu ก็เลยต้อง clear ค่าให้เป็น 0 ก่อน
+mov ds, ax 
 mov es, ax
 
 mov ah, 0x0e
